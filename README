@@ -1,0 +1,1 @@
+This code is mainly from https://gehrcke.de/2013/09/recover-a-gzipped-html-response-from-the-browser-cache/. However, the hex view has changed at the time. I've made it work finally:)
